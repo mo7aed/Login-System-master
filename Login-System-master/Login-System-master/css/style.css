@@ -1,0 +1,30 @@
+body, .form-container
+{
+    background-color: #24353f;
+}
+.navbar
+{
+    background-color: #24353f !important;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.form-container
+{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1)
+}
+#usernameAlert, #userEmailAlert, #userPasswordAlert
+{
+    font-size: .8rem;
+}
+p a:hover
+{
+    text-decoration: underline !important;
+}
+
+input::placeholder
+{
+    color:  rgb(182, 182, 182) !important;
+}
+.box {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
